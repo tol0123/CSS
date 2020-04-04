@@ -1,0 +1,19 @@
+/* 컬러 파레트 및 기본설정 */
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #fadeea; /* */
+  --color-2: #f8ced8; /* */
+  --color-3: #f4b3cb; /* main color */
+  --color-4: #e4c4d1; /* sub  color */
+  --color-5: #fdf2f0; /* */
+
+  --logo-URL: url("");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("");
+  --pre-comment: "현재";
+  --sub-comment: "명!";
+}
