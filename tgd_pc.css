@@ -8,13 +8,13 @@ body {
 }
 
 /* logo */
-/*header .row > div:nth-child(1) > a {
+header .row > div:nth-child(1) > a {
     background-repeat: no-repeat; display: block; width: var(--logo-Width); height: var(--logo-Height);
     background-image: var(--logo-URL); 
 }
 header .row > div:nth-child(1) > a img { 
     display:none; 
-}*/
+}
 
 /* DefaultColor */
 header #header-bar { margin-top: 0.2em; margin-bottom: 1em; padding-right: 30px; padding-left: 30px; }

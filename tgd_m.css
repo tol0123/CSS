@@ -13,13 +13,13 @@ header {
 }
 
 /* 상단 로고 */
-/*header > #header-area > a > h1 {
+header > #header-area > a > h1 {
     background: var(--logo-URL) no-repeat;
     background-size: var(--logo-size-mobile);
 }
 header > #header-area > #header-bar-link {
     color: var(--color-4);
-}*/
+}
 
 /* viewers */
 #board-info #viewers-area #viewers:before { content: var(--pre-comment); cursor: text; }
