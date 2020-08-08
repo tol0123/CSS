@@ -7,6 +7,18 @@
     font-style: normal; 
 }
 
+/* 쿠키런 폰트 CookieRun Bold © 2019 Devsisters Corp. All Rights Reserved */
+@font-face { 
+    font-family: 'CookieRunBold'; 
+    src: url('https://tol0123.github.io/CSS/CookieRun_Bold.ttf'); 
+}
+
+/* 쿠키런 폰트 CookieRun Regular © 2019 Devsisters Corp. All Rights Reserved */
+@font-face { 
+    font-family: 'CookieRunRegular'; 
+    src: url('https://tol0123.github.io/CSS/CookieRun_Regular.ttf'); 
+}
+
 * {
-    font-family: 'GoyangIlsan';
+    font-family: 'CookieRunRegular';
 }
