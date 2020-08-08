@@ -19,6 +19,12 @@
     src: url('https://tol0123.github.io/CSS/CookieRun_Regular.ttf'); 
 }
 
+/* 쿠키런 폰트 CookieRun Black © 2019 Devsisters Corp. All Rights Reserved */
+@font-face { 
+    font-family: 'CookieRunBlack'; 
+    src: url('https://tol0123.github.io/CSS/CookieRun_Black.ttf'); 
+}
+
 * {
-    font-family: 'CookieRunRegular';
+    font-family: 'CookieRunBlack';
 }
