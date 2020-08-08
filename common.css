@@ -1,13 +1,14 @@
 /* 컬러 파레트 및 기본설정 */
 :root {
-  --color-0: #ffffff; /* box color */
+  --color-0: #edd4d2; /* box color */
 
-  --color-1: #fadeea; /* */
-  --color-2: #f8ced8; /* */
-  --color-3: #f4b3cb; /* main color */
-  --color-4: #e4c4d1; /* sub  color */
-  --color-5: #fdf2f0; /* */
-
+  --color-1: #edd4d2; /* */
+  --color-2: #edd4d2; /* */
+  --color-3: #ff6051; /* main color */
+  --color-4: #ff6051; /* sub  color */
+  --color-5: #ff6051; /* */
+  --color-6: #ffffff;
+  
   --logo-URL: url("https://tol0123.github.io/CSS/logo_2.png");
   --logo-Width: 185px;
   --logo-Height: 50px;
@@ -17,3 +18,4 @@
   --pre-comment: "현재";
   --sub-comment: "명!";
 }
+
