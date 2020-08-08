@@ -49,6 +49,17 @@ header #header-bar #header-top-notice strong.notice-badge {
   color: var(--color-0);
 }
 
+/* tgd menu box list */
+#main .menu-wrapper>a {
+    display: block;
+    background: #fff;
+    padding: 0.3em 1.4em 0.3em 0.7em;
+    text-decoration: none;
+    color: #313131;
+    border-bottom: 1px solid #f1f1f1;
+    font-weight: bold;
+}
+
 /* remove nav box border */
 header #header-bar > .row,
 #main .menu-wrapper,
